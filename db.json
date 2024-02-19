@@ -4,7 +4,7 @@
             "id": 1,
             "from": "Mumbai",
             "to": "Pune",
-            "fare": 450,
+            "fare": 500,
             "driver": "Rajesh Kumar",
             "rating": 4.5,
             "vehicle": {
@@ -19,7 +19,7 @@
             "id": 21,
             "from": "Mumbai",
             "to": "Pune",
-            "fare": 500,
+            "fare": 670,
             "driver": "Manish Kumar",
             "rating": 4.4,
             "vehicle": {
