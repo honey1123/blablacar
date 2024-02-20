@@ -1,36 +1,6 @@
 {
     "trips": [
         {
-            "id": 1,
-            "from": "Mumbai",
-            "to": "Pune",
-            "fare": 500,
-            "driver": "Rajesh Kumar",
-            "rating": 4.5,
-            "vehicle": {
-                "make": "Maruti Suzuki",
-                "model": "Swift",
-                "year": 2019
-            },
-            "estimatedTravelTime": "3 hours",
-            "dateTime": "2024-02-19 13:00:00"
-        },
-        {
-            "id": 21,
-            "from": "Mumbai",
-            "to": "Pune",
-            "fare": 670,
-            "driver": "Manish Kumar",
-            "rating": 4.4,
-            "vehicle": {
-                "make": "Maruti Suzuki",
-                "model": "Alto",
-                "year": 2014
-            },
-            "estimatedTravelTime": "3 hours 40 minutes",
-            "dateTime": "2024-02-19 14:30:00"
-        },
-        {
             "id": 20,
             "from": "Jodhpur",
             "to": "Jaisalmer",
@@ -194,21 +164,6 @@
             },
             "estimatedTravelTime": "6 hours 45 minutes",
             "dateTime": "2024-02-21 14:30:00"
-        }
-        {
-        "id": 40,
-        "from": "Jodhpur",
-        "to": "Jaisalmer",
-        "fare": 800,
-        "driver": "Amit Kumar",
-        "rating": 4.9,
-        "vehicle": {
-            "make": "Volkswagen",
-            "model": "Tiguan",
-            "year": 2021
-        },
-        "estimatedTravelTime": "4 hours 50 minutes",
-        "dateTime": "2024-02-19 15:30:00"
         },
         {
             "id": 41,
@@ -344,21 +299,6 @@
             },
             "estimatedTravelTime": "6 hours 45 minutes",
             "dateTime": "2024-02-19 14:30:00"
-        },
-        {
-            "id": 58,
-            "from": "Jodhpur",
-            "to": "Jaisalmer",
-            "fare": 800,
-            "driver": "Amit Kumar",
-            "rating": 4.9,
-            "vehicle": {
-                "make": "Volkswagen",
-                "model": "Tiguan",
-                "year": 2021
-            },
-            "estimatedTravelTime": "4 hours 50 minutes",
-            "dateTime": "2024-02-20 15:30:00"
         },
         {
             "id": 59,
