@@ -389,21 +389,6 @@
             },
             "estimatedTravelTime": "6 hours 15 minutes",
             "dateTime": "2024-02-20 12:30:00"
-        },
-        {
-            "id": 29,
-            "from": "Kota",
-            "to": "Bikaner",
-            "fare": 1020,
-            "driver": "Rahul Kumar",
-            "rating": 4.7,
-            "vehicle": {
-                "make": "Ford",
-                "model": "Fusion",
-                "year": 2020
-            },
-            "estimatedTravelTime": "6 hours 45 minutes",
-            "dateTime": "2024-02-20 14:30:00"
         }
     ]
 }
