@@ -1,409 +1,319 @@
 {
   "trips": [
     {
-      "id": 1,
-      "from": "Jaipur",
-      "to": "Jodhpur",
-      "fare": 820,
-      "driver": "Rajendra Singh",
-      "rating": 4.7,
-      "vehicle": {
-        "make": "Toyota",
-        "model": "Camry",
-        "year": 2023
-      },
-      "estimatedTravelTime": "5 hours 15 minutes",
-      "dateTime": "2024-02-20 07:30:00"
-    },
-    {
-      "id": 2,
-      "from": "Jaipur",
-      "to": "Jodhpur",
-      "fare": 780,
-      "driver": "Sandeep Sharma",
-      "rating": 4.6,
-      "vehicle": {
-        "make": "Honda",
-        "model": "Accord",
-        "year": 2021
-      },
-      "estimatedTravelTime": "4 hours 45 minutes",
-      "dateTime": "2024-02-20 09:00:00"
-    },
-    {
-      "id": 3,
-      "from": "Jaipur",
-      "to": "Jodhpur",
-      "fare": 850,
-      "driver": "Rahul Verma",
-      "rating": 4.9,
-      "vehicle": {
-        "make": "Ford",
-        "model": "Mustang",
-        "year": 2020
-      },
-      "estimatedTravelTime": "5 hours 30 minutes",
-      "dateTime": "2024-02-20 11:00:00"
-    },
-    {
-      "id": 4,
-      "from": "Ajmer",
-      "to": "Jaipur",
-      "fare": 620,
-      "driver": "Vikas Meena",
-      "rating": 4.8,
-      "vehicle": {
-        "make": "Hyundai",
-        "model": "Sonata",
-        "year": 2022
-      },
-      "estimatedTravelTime": "2 hours 45 minutes",
-      "dateTime": "2024-02-20 08:30:00"
-    },
-    {
-      "id": 5,
-      "from": "Ajmer",
-      "to": "Jaipur",
-      "fare": 590,
-      "driver": "Ravi Kumar",
-      "rating": 4.7,
-      "vehicle": {
-        "make": "Chevrolet",
-        "model": "Malibu",
-        "year": 2019
-      },
-      "estimatedTravelTime": "2 hours 15 minutes",
-      "dateTime": "2024-02-20 10:00:00"
-    },
-    {
-      "id": 6,
-      "from": "Ajmer",
-      "to": "Jaipur",
-      "fare": 630,
-      "driver": "Hari Singh",
-      "rating": 4.5,
-      "vehicle": {
-        "make": "Volkswagen",
-        "model": "Golf",
-        "year": 2018
-      },
-      "estimatedTravelTime": "3 hours",
-      "dateTime": "2024-02-20 12:00:00"
-    },
-    {
-      "id": 7,
-      "from": "Kota",
-      "to": "Bikaner",
-      "fare": 1050,
-      "driver": "Ajay Sharma",
-      "rating": 4.6,
-      "vehicle": {
-        "make": "Toyota",
-        "model": "Camry",
-        "year": 2021
-      },
-      "estimatedTravelTime": "6 hours 30 minutes",
-      "dateTime": "2024-02-20 09:30:00"
-    },
-    {
-      "id": 8,
-      "from": "Kota",
-      "to": "Bikaner",
-      "fare": 980,
-      "driver": "Rajiv Verma",
-      "rating": 4.8,
-      "vehicle": {
-        "make": "Honda",
-        "model": "Civic",
-        "year": 2019
-      },
-      "estimatedTravelTime": "6 hours 15 minutes",
-      "dateTime": "2024-02-20 11:30:00"
-    },
-    {
-      "id": 9,
-      "from": "Kota",
-      "to": "Bikaner",
-      "fare": 1020,
-      "driver": "Amit Kumar",
-      "rating": 4.7,
-      "vehicle": {
-        "make": "Ford",
-        "model": "Fusion",
-        "year": 2020
-      },
-      "estimatedTravelTime": "6 hours 45 minutes",
-      "dateTime": "2024-02-20 13:30:00"
-    },
-    {
-      "id": 10,
-      "from": "Jaipur",
-      "to": "Jodhpur",
-      "fare": 820,
-      "driver": "Rajendra Singh",
-      "rating": 4.7,
-      "vehicle": {
-        "make": "Toyota",
-        "model": "Camry",
-        "year": 2023
-      },
-      "estimatedTravelTime": "5 hours 15 minutes",
-      "dateTime": "2024-02-19 07:30:00"
-    },
-    {
-      "id": 11,
-      "from": "Jaipur",
-      "to": "Jodhpur",
-      "fare": 780,
-      "driver": "Sandeep Sharma",
-      "rating": 4.6,
-      "vehicle": {
-        "make": "Honda",
-        "model": "Accord",
-        "year": 2021
-      },
-      "estimatedTravelTime": "4 hours 45 minutes",
-      "dateTime": "2024-02-19 09:00:00"
-    },
-    {
-      "id": 12,
-      "from": "Jaipur",
-      "to": "Jodhpur",
-      "fare": 850,
-      "driver": "Rahul Verma",
-      "rating": 4.9,
-      "vehicle": {
-        "make": "Ford",
-        "model": "Mustang",
-        "year": 2020
-      },
-      "estimatedTravelTime": "5 hours 30 minutes",
-      "dateTime": "2024-02-19 11:00:00"
-    },
-    {
-      "id": 13,
-      "from": "Ajmer",
-      "to": "Jaipur",
-      "fare": 620,
-      "driver": "Vikas Meena",
-      "rating": 4.8,
-      "vehicle": {
-        "make": "Hyundai",
-        "model": "Sonata",
-        "year": 2022
-      },
-      "estimatedTravelTime": "2 hours 45 minutes",
-      "dateTime": "2024-02-19 08:30:00"
-    },
-    {
-      "id": 14,
-      "from": "Ajmer",
-      "to": "Jaipur",
-      "fare": 590,
-      "driver": "Ravi Kumar",
-      "rating": 4.7,
-      "vehicle": {
-        "make": "Chevrolet",
-        "model": "Malibu",
-        "year": 2019
-      },
-      "estimatedTravelTime": "2 hours 15 minutes",
-      "dateTime": "2024-02-19 10:00:00"
-    },
-    {
-      "id": 15,
-      "from": "Ajmer",
-      "to": "Jaipur",
-      "fare": 630,
-      "driver": "Hari Singh",
-      "rating": 4.5,
-      "vehicle": {
-        "make": "Volkswagen",
-        "model": "Golf",
-        "year": 2018
-      },
-      "estimatedTravelTime": "3 hours",
-      "dateTime": "2024-02-19 12:00:00"
-    },
-    {
-      "id": 16,
-      "from": "Kota",
-      "to": "Bikaner",
-      "fare": 1050,
-      "driver": "Ajay Sharma",
-      "rating": 4.6,
-      "vehicle": {
-        "make": "Toyota",
-        "model": "Camry",
-        "year": 2021
-      },
-      "estimatedTravelTime": "6 hours 30 minutes",
-      "dateTime": "2024-02-19 09:30:00"
-    },
-    {
-      "id": 17,
-      "from": "Kota",
-      "to": "Bikaner",
-      "fare": 980,
-      "driver": "Rajiv Verma",
-      "rating": 4.8,
-      "vehicle": {
-        "make": "Honda",
-        "model": "Civic",
-        "year": 2019
-      },
-      "estimatedTravelTime": "6 hours 15 minutes",
-      "dateTime": "2024-02-19 11:30:00"
-    },
-    {
-      "id": 18,
-      "from": "Kota",
-      "to": "Bikaner",
-      "fare": 1020,
-      "driver": "Amit Kumar",
-      "rating": 4.7,
-      "vehicle": {
-        "make": "Ford",
-        "model": "Fusion",
-        "year": 2020
-      },
-      "estimatedTravelTime": "6 hours 45 minutes",
-      "dateTime": "2024-02-19 13:30:00"
-    },
-    {
-      "id": 19,
-      "from": "Jaipur",
-      "to": "Jodhpur",
-      "fare": 820,
-      "driver": "Rajendra Singh",
-      "rating": 4.7,
-      "vehicle": {
-        "make": "Toyota",
-        "model": "Camry",
-        "year": 2023
-      },
-      "estimatedTravelTime": "5 hours 15 minutes",
-      "dateTime": "2024-02-21 07:30:00"
-    },
-    {
-      "id": 20,
-      "from": "Jaipur",
-      "to": "Jodhpur",
-      "fare": 780,
-      "driver": "Sandeep Sharma",
-      "rating": 4.6,
-      "vehicle": {
-        "make": "Honda",
-        "model": "Accord",
-        "year": 2021
-      },
-      "estimatedTravelTime": "4 hours 45 minutes",
-      "dateTime": "2024-02-21 09:00:00"
-    },
-    {
-      "id": 21,
-      "from": "Jaipur",
-      "to": "Jodhpur",
-      "fare": 850,
-      "driver": "Rahul Verma",
-      "rating": 4.9,
-      "vehicle": {
-        "make": "Ford",
-        "model": "Mustang",
-        "year": 2020
-      },
-      "estimatedTravelTime": "5 hours 30 minutes",
-      "dateTime": "2024-02-21 11:00:00"
-    },
-    {
-      "id": 22,
-      "from": "Ajmer",
-      "to": "Jaipur",
-      "fare": 620,
-      "driver": "Vikas Meena",
-      "rating": 4.8,
-      "vehicle": {
-        "make": "Hyundai",
-        "model": "Sonata",
-        "year": 2022
-      },
-      "estimatedTravelTime": "2 hours 45 minutes",
-      "dateTime": "2024-02-21 08:30:00"
-    },
-    {
-      "id": 23,
-      "from": "Ajmer",
-      "to": "Jaipur",
-      "fare": 590,
-      "driver": "Ravi Kumar",
-      "rating": 4.7,
-      "vehicle": {
-        "make": "Chevrolet",
-        "model": "Malibu",
-        "year": 2019
-      },
-      "estimatedTravelTime": "2 hours 15 minutes",
-      "dateTime": "2024-02-21 10:00:00"
-    },
-    {
-      "id": 24,
-      "from": "Ajmer",
-      "to": "Jaipur",
-      "fare": 630,
-      "driver": "Hari Singh",
-      "rating": 4.5,
-      "vehicle": {
-        "make": "Volkswagen",
-        "model": "Golf",
-        "year": 2018
-      },
-      "estimatedTravelTime": "3 hours",
-      "dateTime": "2024-02-21 12:00:00"
-    },
-    {
-      "id": 25,
-      "from": "Kota",
-      "to": "Bikaner",
-      "fare": 1050,
-      "driver": "Ajay Sharma",
-      "rating": 4.6,
-      "vehicle": {
-        "make": "Toyota",
-        "model": "Camry",
-        "year": 2021
-      },
-      "estimatedTravelTime": "6 hours 30 minutes",
-      "dateTime": "2024-02-21 09:30:00"
-    },
-    {
-      "id": 26,
-      "from": "Kota",
-      "to": "Bikaner",
-      "fare": 980,
-      "driver": "Rajiv Verma",
-      "rating": 4.8,
-      "vehicle": {
-        "make": "Honda",
-        "model": "Civic",
-        "year": 2019
-      },
-      "estimatedTravelTime": "6 hours 15 minutes",
-      "dateTime": "2024-02-21 11:30:00"
-    },
-    {
-      "id": 27,
-      "from": "Kota",
-      "to": "Bikaner",
-      "fare": 1020,
-      "driver": "Amit Kumar",
-      "rating": 4.7,
-      "vehicle": {
-        "make": "Ford",
-        "model": "Fusion",
-        "year": 2020
-      },
-      "estimatedTravelTime": "6 hours 45 minutes",
-      "dateTime": "2024-02-21 13:30:00"
-    }
-  ]
+            "id": 1,
+            "from": "Jaipur",
+            "to": "Jodhpur",
+            "fare": 820,
+            "driver": "Sachin Sharma",
+            "rating": 4.7,
+            "vehicle": {
+                "make": "BMW",
+                "model": "X5",
+                "year": 2023
+            },
+            "estimatedTravelTime": "5 hours 15 minutes",
+            "dateTime": "2024-02-21 09:30:00"
+        },
+        {
+            "id": 4,
+            "from": "Jaipur",
+            "to": "Jodhpur",
+            "fare": 780,
+            "driver": "Alok Singh",
+            "rating": 4.6,
+            "vehicle": {
+                "make": "Mercedes-Benz",
+                "model": "E-Class",
+                "year": 2021
+            },
+            "estimatedTravelTime": "4 hours 45 minutes",
+            "dateTime": "2024-02-21 11:00:00"
+        },
+        {
+            "id": 6,
+            "from": "Ajmer",
+            "to": "Jaipur",
+            "fare": 620,
+            "driver": "Rajat Meena",
+            "rating": 4.8,
+            "vehicle": {
+                "make": "Hyundai",
+                "model": "Sonata",
+                "year": 2022
+            },
+            "estimatedTravelTime": "2 hours 45 minutes",
+            "dateTime": "2024-02-21 10:30:00"
+        },
+        {
+            "id": 7,
+            "from": "Ajmer",
+            "to": "Jaipur",
+            "fare": 590,
+            "driver": "Suresh Kumar",
+            "rating": 4.7,
+            "vehicle": {
+                "make": "Chevrolet",
+                "model": "Malibu",
+                "year": 2019
+            },
+            "estimatedTravelTime": "2 hours 15 minutes",
+            "dateTime": "2024-02-21 12:00:00"
+        },
+        {
+            "id": 9,
+            "from": "Kota",
+            "to": "Bikaner",
+            "fare": 1050,
+            "driver": "Ankit Sharma",
+            "rating": 4.6,
+            "vehicle": {
+                "make": "Toyota",
+                "model": "Camry",
+                "year": 2021
+            },
+            "estimatedTravelTime": "6 hours 30 minutes",
+            "dateTime": "2024-02-21 10:30:00"
+        },
+        {
+            "id": 10,
+            "from": "Kota",
+            "to": "Bikaner",
+            "fare": 980,
+            "driver": "Vikram Verma",
+            "rating": 4.8,
+            "vehicle": {
+                "make": "Honda",
+                "model": "Civic",
+                "year": 2019
+            },
+            "estimatedTravelTime": "6 hours 15 minutes",
+            "dateTime": "2024-02-21 12:30:00"
+        },
+        {
+            "id": 12,
+            "from": "Jaipur",
+            "to": "Jodhpur",
+            "fare": 820,
+            "driver": "Sachin Sharma",
+            "rating": 4.7,
+            "vehicle": {
+                "make": "BMW",
+                "model": "X5",
+                "year": 2023
+            },
+            "estimatedTravelTime": "5 hours 15 minutes",
+            "dateTime": "2024-02-19 09:30:00"
+        },
+        {
+            "id": 13,
+            "from": "Jaipur",
+            "to": "Jodhpur",
+            "fare": 780,
+            "driver": "Alok Singh",
+            "rating": 4.6,
+            "vehicle": {
+                "make": "Mercedes-Benz",
+                "model": "E-Class",
+                "year": 2021
+            },
+            "estimatedTravelTime": "4 hours 45 minutes",
+            "dateTime": "2024-02-19 11:00:00"
+        },
+        {
+            "id": 14,
+            "from": "Jaipur",
+            "to": "Jodhpur",
+            "fare": 850,
+            "driver": "Vishal Sharma",
+            "rating": 4.9,
+            "vehicle": {
+                "make": "Audi",
+                "model": "A6",
+                "year": 2020
+            },
+            "estimatedTravelTime": "5 hours 30 minutes",
+            "dateTime": "2024-02-19 13:00:00"
+        },
+        {
+            "id": 15,
+            "from": "Ajmer",
+            "to": "Jaipur",
+            "fare": 620,
+            "driver": "Rajat Meena",
+            "rating": 4.8,
+            "vehicle": {
+                "make": "Hyundai",
+                "model": "Sonata",
+                "year": 2022
+            },
+            "estimatedTravelTime": "2 hours 45 minutes",
+            "dateTime": "2024-02-19 10:30:00"
+        },
+        {
+            "id": 16,
+            "from": "Ajmer",
+            "to": "Jaipur",
+            "fare": 590,
+            "driver": "Suresh Kumar",
+            "rating": 4.7,
+            "vehicle": {
+                "make": "Chevrolet",
+                "model": "Malibu",
+                "year": 2019
+            },
+            "estimatedTravelTime": "2 hours 15 minutes",
+            "dateTime": "2024-02-19 12:00:00"
+        },
+        {
+            "id": 17,
+            "from": "Ajmer",
+            "to": "Jaipur",
+            "fare": 630,
+            "driver": "Deepak Singh",
+            "rating": 4.5,
+            "vehicle": {
+                "make": "Volkswagen",
+                "model": "Golf",
+                "year": 2018
+            },
+            "estimatedTravelTime": "3 hours",
+            "dateTime": "2024-02-19 14:00:00"
+        },
+        {
+            "id": 18,
+            "from": "Kota",
+            "to": "Bikaner",
+            "fare": 1050,
+            "driver": "Ankit Sharma",
+            "rating": 4.6,
+            "vehicle": {
+                "make": "Toyota",
+                "model": "Camry",
+                "year": 2021
+            },
+            "estimatedTravelTime": "6 hours 30 minutes",
+            "dateTime": "2024-02-19 10:30:00"
+        },
+        {
+            "id": 19,
+            "from": "Kota",
+            "to": "Bikaner",
+            "fare": 980,
+            "driver": "Vikram Verma",
+            "rating": 4.8,
+            "vehicle": {
+                "make": "Honda",
+                "model": "Civic",
+                "year": 2019
+            },
+            "estimatedTravelTime": "6 hours 15 minutes",
+            "dateTime": "2024-02-19 12:30:00"
+        },
+        {
+            "id": 21,
+            "from": "Jaipur",
+            "to": "Jodhpur",
+            "fare": 820,
+            "driver": "Sachin Sharma",
+            "rating": 4.7,
+            "vehicle": {
+                "make": "BMW",
+                "model": "X5",
+                "year": 2023
+            },
+            "estimatedTravelTime": "5 hours 15 minutes",
+            "dateTime": "2024-02-20 09:30:00"
+        },
+        {
+            "id": 22,
+            "from": "Jaipur",
+            "to": "Jodhpur",
+            "fare": 780,
+            "driver": "Alok Singh",
+            "rating": 4.6,
+            "vehicle": {
+                "make": "Mercedes-Benz",
+                "model": "E-Class",
+                "year": 2021
+            },
+            "estimatedTravelTime": "4 hours 45 minutes",
+            "dateTime": "2024-02-20 11:00:00"
+        },
+        {
+            "id": 24,
+            "from": "Ajmer",
+            "to": "Jaipur",
+            "fare": 620,
+            "driver": "Rajat Meena",
+            "rating": 4.8,
+            "vehicle": {
+                "make": "Hyundai",
+                "model": "Sonata",
+                "year": 2022
+            },
+            "estimatedTravelTime": "2 hours 45 minutes",
+            "dateTime": "2024-02-20 10:30:00"
+        },
+        {
+            "id": 25,
+            "from": "Ajmer",
+            "to": "Jaipur",
+            "fare": 590,
+            "driver": "Suresh Kumar",
+            "rating": 4.7,
+            "vehicle": {
+                "make": "Chevrolet",
+                "model": "Malibu",
+                "year": 2019
+            },
+            "estimatedTravelTime": "2 hours 15 minutes",
+            "dateTime": "2024-02-20 12:00:00"
+        },
+        {
+            "id": 26,
+            "from": "Ajmer",
+            "to": "Jaipur",
+            "fare": 630,
+            "driver": "Deepak Singh",
+            "rating": 4.5,
+            "vehicle": {
+                "make": "Volkswagen",
+                "model": "Golf",
+                "year": 2018
+            },
+            "estimatedTravelTime": "3 hours",
+            "dateTime": "2024-02-20 14:00:00"
+        },
+        {
+            "id": 27,
+            "from": "Kota",
+            "to": "Bikaner",
+            "fare": 1050,
+            "driver": "Ankit Sharma",
+            "rating": 4.6,
+            "vehicle": {
+                "make": "Toyota",
+                "model": "Camry",
+                "year": 2021
+            },
+            "estimatedTravelTime": "6 hours 30 minutes",
+            "dateTime": "2024-02-20 10:30:00"
+        },
+        {
+            "id": 28,
+            "from": "Kota",
+            "to": "Bikaner",
+            "fare": 980,
+            "driver": "Vikram Verma",
+            "rating": 4.8,
+            "vehicle": {
+                "make": "Honda",
+                "model": "Civic",
+                "year": 2019
+            },
+            "estimatedTravelTime": "6 hours 15 minutes",
+            "dateTime": "2024-02-20 12:30:00"
+        }
+    ]
 }
