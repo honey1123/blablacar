@@ -31,21 +31,6 @@
             "dateTime": "2024-02-21 11:00:00"
         },
         {
-            "id": 5,
-            "from": "Jaipur",
-            "to": "Jodhpur",
-            "fare": 850,
-            "driver": "Vishal Sharma",
-            "rating": 4.9,
-            "vehicle": {
-                "make": "Audi",
-                "model": "A6",
-                "year": 2020
-            },
-            "estimatedTravelTime": "5 hours 30 minutes",
-            "dateTime": "2024-02-21 13:00:00"
-        },
-        {
             "id": 6,
             "from": "Ajmer",
             "to": "Jaipur",
@@ -76,21 +61,6 @@
             "dateTime": "2024-02-21 12:00:00"
         },
         {
-            "id": 8,
-            "from": "Ajmer",
-            "to": "Jaipur",
-            "fare": 630,
-            "driver": "Deepak Singh",
-            "rating": 4.5,
-            "vehicle": {
-                "make": "Volkswagen",
-                "model": "Golf",
-                "year": 2018
-            },
-            "estimatedTravelTime": "3 hours",
-            "dateTime": "2024-02-21 14:00:00"
-        },
-        {
             "id": 9,
             "from": "Kota",
             "to": "Bikaner",
@@ -119,21 +89,6 @@
             },
             "estimatedTravelTime": "6 hours 15 minutes",
             "dateTime": "2024-02-21 12:30:00"
-        },
-        {
-            "id": 11,
-            "from": "Kota",
-            "to": "Bikaner",
-            "fare": 1020,
-            "driver": "Rahul Kumar",
-            "rating": 4.7,
-            "vehicle": {
-                "make": "Ford",
-                "model": "Fusion",
-                "year": 2020
-            },
-            "estimatedTravelTime": "6 hours 45 minutes",
-            "dateTime": "2024-02-21 14:30:00"
         },
         {
             "id": 12,
@@ -256,21 +211,6 @@
             "dateTime": "2024-02-19 12:30:00"
         },
         {
-            "id": 20,
-            "from": "Kota",
-            "to": "Bikaner",
-            "fare": 1020,
-            "driver": "Rahul Kumar",
-            "rating": 4.7,
-            "vehicle": {
-                "make": "Ford",
-                "model": "Fusion",
-                "year": 2020
-            },
-            "estimatedTravelTime": "6 hours 45 minutes",
-            "dateTime": "2024-02-19 14:30:00"
-        },
-        {
             "id": 21,
             "from": "Jaipur",
             "to": "Jodhpur",
@@ -299,21 +239,6 @@
             },
             "estimatedTravelTime": "4 hours 45 minutes",
             "dateTime": "2024-02-20 11:00:00"
-        },
-        {
-            "id": 23,
-            "from": "Jaipur",
-            "to": "Jodhpur",
-            "fare": 850,
-            "driver": "Vishal Sharma",
-            "rating": 4.9,
-            "vehicle": {
-                "make": "Audi",
-                "model": "A6",
-                "year": 2020
-            },
-            "estimatedTravelTime": "5 hours 30 minutes",
-            "dateTime": "2024-02-20 13:00:00"
         },
         {
             "id": 24,
