@@ -1,7 +1,7 @@
 {
     "trips": [
         {
-            "id": 3,
+            "id": 1,
             "from": "Jaipur",
             "to": "Jodhpur",
             "fare": 820,
